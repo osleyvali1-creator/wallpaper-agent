@@ -39,14 +39,3 @@ python3 wallpaper_agent.py --status
 python3 wallpaper_agent.py --apply-now
 python3 wallpaper_agent.py --set "C:/Users/you/Pictures/wallpaper.jpg"
 ```
-
-## Recommended next step
-
-If you want the agent to fetch wallpaper metadata from GitHub, the clean pattern is:
-
-- keep this repo as the codebase
-- store schedule metadata in `wallpapers.json`
-- fetch that JSON from GitHub at startup or on a timed refresh
-- use the local machine to actually apply the wallpaper
-
-This keeps GitHub as a config source instead of a real-time database.
