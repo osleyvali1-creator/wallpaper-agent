@@ -1,0 +1,45 @@
+{
+  "wallpapers": [
+    {
+      "id": "tahoe-morning",
+      "label": "Morning",
+      "time": "06:00",
+      "type": "aerial",
+      "aerial": "tahoe-morning",
+      "appearance": "automatic",
+      "description": "Tahoe morning aerial wallpaper"
+    },
+    {
+      "id": "tahoe-day",
+      "label": "Midday",
+      "time": "12:00",
+      "type": "aerial",
+      "aerial": "tahoe-day",
+      "appearance": "automatic",
+      "description": "Tahoe day aerial wallpaper"
+    },
+    {
+      "id": "tahoe-evening",
+      "label": "Evening",
+      "time": "17:30",
+      "type": "aerial",
+      "aerial": "tahoe-evening",
+      "appearance": "automatic",
+      "description": "Tahoe evening aerial wallpaper"
+    },
+    {
+      "id": "tahoe-night",
+      "label": "Night",
+      "time": "21:00",
+      "type": "aerial",
+      "aerial": "tahoe-night",
+      "appearance": "automatic",
+      "description": "Tahoe night aerial wallpaper"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-10-04",
+    "totalWallpapers": 4
+  }
+}
